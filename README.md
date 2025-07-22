@@ -1,4 +1,4 @@
 # my-first-Repo
 learning
 <br>
-Author : Lahari
+Author : Lahari (my first name)
